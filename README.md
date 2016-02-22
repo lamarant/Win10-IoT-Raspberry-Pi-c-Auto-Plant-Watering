@@ -1,4 +1,4 @@
-# Windows 10 IoT Raspberry PI Plant Watering System in C#
+# Windows 10 IoT Raspberry PI Plant Watering System - Viisual Studio 2015 with C Sharp
 
 System currently includes a moisture sensor to take periodic moisture readings (currently digital only) and Red and Blue LEDs to indicate Dry/Wet soil.
 
