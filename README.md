@@ -1,9 +1,10 @@
-# Windows 10 IoT Raspberry PI Plant Watering System
+# Windows 10 IoT Raspberry PI Plant Watering System in C#
 
 System currently includes a moisture sensor to take periodic moisture readings (currently digital only) and Red and Blue LEDs to indicate Dry/Wet soil.
 
 Future features will include:
 - Obtain analog moisture reading (Digital is not good enough. need high and low moisture thresholds)
+- Display current moisture reading in LCD display
 - Send periodic reading to web service that will store all sensor readings
 - Solenoid valve to turn on/off water source
 - Set low threshold to start watering
