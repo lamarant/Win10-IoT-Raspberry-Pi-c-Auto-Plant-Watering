@@ -100,9 +100,8 @@
     </SDKReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdcProviderManager.cs" />
-    <Compile Include="LedController.cs" />
-    <Compile Include="MoistureSensor.cs" />
+    <Compile Include="Models\LedController.cs" />
+    <Compile Include="Models\MoistureSensor.cs" />
     <Compile Include="StartupTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
